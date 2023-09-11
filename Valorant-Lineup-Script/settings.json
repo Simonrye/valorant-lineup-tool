@@ -1,0 +1,40 @@
+{
+    "valorant_sensitivity": 0.4,
+    // Adjust this value to match your in-game sensitivity.
+
+    "player_coords": [206, 227],
+    // These are the coordinates of the center of the minimap or your point of view (POV).
+
+    "map_distance_multiplier": 1,
+    // Modify this value if necessary to account for variations. 
+    // Increase if projectiles consistently fall short, decrease if they overshoot.
+    // Test adjustments on even ground for accuracy.
+    // Note: Uneven terrain may affect distances and require in-game adjustments.
+
+    
+    "ascent_multiplier": 1.07,
+    "bind_multiplier": 1.2625,
+    "breeze_multiplier": 1.03,
+    "fracture_multiplier": 0.96,
+    "haven_multiplier": 1.00,
+    "icebox_multiplier": 1.03,
+    "lotus_multiplier": 1.035,
+    "pearl_multiplier": 0.96,
+    "split_multiplier": 0.958,
+    "sunset_multiplier": 0.964,
+    // Only adjust map multipliers if you are familiar with their impact.
+
+
+    "unplanted_spike_rgb": [219, 230, 3],
+    // RGB color code for the unplanted spike. Adjust if needed for screen variations.
+
+    "planted_spike_rgb": [248, 188, 0],
+    // RGB color code for the planted spike. Modify as necessary.
+
+    "tolerance": 12,
+    // The tolerance level for RGB color matching. Generally, this should not need to change.
+
+    "x_file": "overlays/violet_x.png",
+    "dot_file": "overlays/red_dot.png"
+    // File paths for the overlay images used.
+}
