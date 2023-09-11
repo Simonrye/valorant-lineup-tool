@@ -14,10 +14,10 @@ This project was created for the purpose of quickly setting up memorable lineups
 <summary><b>Brimstone Video Demos</b></summary>
 
 
-https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/38b4e8e9-9e16-4a3f-ba1b-78e15f15c4ae
+https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/9ecd9daa-3f87-45ee-9955-d2d85240361a
 
 
-https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/abff3bd8-73bc-455a-acc0-ab8b2c1f7ea5
+https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/c73c23aa-9fe3-4a6d-93ea-c22e8610841f
 </details>
 When you're far enough, you'll see two indicators: an 'X' for a bounce landing and a dot for a direct hit.
 <br />
@@ -30,7 +30,7 @@ Direct hits may be needed when a backboard is present and the terrain in front o
 <summary><b>Viper Video Demo</b></summary>
 
 
-https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/9050aec6-7b01-446b-bbc7-c19f470efb48
+https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/21f364b9-a7ca-4731-921b-dee09b4fcabd
 </details>
 The extreme range of a Snake Bite, paired with the direct impact when landing makes Viper the best agent for this tool. 
 <br />
@@ -40,7 +40,7 @@ The trajectory is less affected by elevation differences.
 <summary><b>KAY/O Video Demo</b></summary>
 
 
-https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/4833bd02-1a07-401d-8a83-b1c3670dacd1
+https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/b660febe-5c62-4af2-8754-83a3f9a531a6
 </details>
 This projectile is limited by it's shorter reach, but still works close range.
 <br />
@@ -100,9 +100,10 @@ This projectile is underdeveloped, and still may present issues.
 <h3 align="center">How Does It Work?</h3>
 
 <details>
-  <summary>Watch the Explanation Video</summary>
-  
-  [Explanation Video](https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/800a2e73-728c-4b5b-ba9a-1d427757d6c2)
+<summary>Watch the Explanation Video</summary>
+
+
+https://github.com/Simonrye/valorant-lineup-tool/assets/85827801/6042b287-4205-487a-8283-f4470051d60c
 </details>
 
 The script operates by utilizing the centered minimap and the spike's RGB information to determine the player's fixed position and the relative position of the spike. This data is used to calculate the distance and direction to the spike. Subsequently, the script places an "X" overlay onto the screen, intended to guide the player precisely where to aim in-game. To initiate the lineup, the player must look straight down to align the "X" with the correct y-position.
